@@ -1,10 +1,10 @@
 let myName = "Ibukun Ladeji"
 
-let myHeight = "5.5 feets"
+let myHeight = "1.7 meters"
 
 let myCountry = "Nigeria"
 
 
-document.write('Name:' + ' ' + ' ' + myName + '<br>');
-document.write('Height:' + ' ' + ' ' + myHeight + '<br>');
-document.write('Country:' + ' ' + ' ' + myCountry + '<br>');
+console.log('Name:' + ' ' + myName);
+console.log('Height:' + ' ' + myHeight);
+console.log('Country:' + ' ' + myCountry);
